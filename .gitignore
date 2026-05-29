@@ -35,4 +35,3 @@ Thumbs.db
 *.pkl
 .sfdx/
 *.cls
-/models
